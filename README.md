@@ -26,7 +26,7 @@ Famous Snake Game that contains a snake that moves around and captures preys tha
 
 ---
 
-## Here is a Preview of the graphical user interface (GUI) of the snake game running on the Python script:
+### Preview of the graphical user interface (GUI) of the snake game running on the Python script:
 
 ![image](https://github.com/user-attachments/assets/430778d6-8a01-4ddf-8b52-5665fb388d5f)
 
