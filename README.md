@@ -9,9 +9,9 @@ Famous Snake Game that contains a snake that moves around and captures preys tha
 * You control the snake's movement by using the arrow keys on your keyboard (up, down, left, or right).
 
  * Each time the snake captures prey:
-  - The score increases by one.
-  - The snake grows by one square, making movement more challenging.
-  - A new prey spawns randomly within the window.
+   - The score increases by one.
+   - The snake grows by one square, making movement more challenging.
+   - A new prey spawns randomly within the window.
 
 * As the snake grows, the game becomes progressively harder due to the limited space.
 
